@@ -3,7 +3,7 @@ Methods for robot-world, hand-eye calibration; version 1.1 using OpenCV 3.0, &lt
 
 June 1, 2018: This code is now deprecated in favor of a new, modern version at https://github.com/amy-tabb/RWHEC-Tabb-AhmadYousef.  However, we keep this version available in case those with older versions of OpenCV prefer it.
 
-A bug with regards to the computation of the translation error has been corrected.  In addition, many other efforts have been made to clean up the code.
+A bug with regards to the computation of the translation error has been corrected.  
 
 ---------------------------------------------------------------------
 BUILDING AND RUNNING
