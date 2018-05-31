@@ -28,7 +28,19 @@ url="https://doi.org/10.1007/s00138-017-0841-7"
 }
 
 
-If you use this code in project that results in a publication, please cite the paper above.  Otherwise, there are no restrictions in your use of this code.  However, no guarantees are expressed or implied.
+Dataset and/or code:
+
+@electronic{tabb2017code_solving,
+author = {Tabb, Amy},
+year = {2017},
+title = {Data from: Solving the Robot-World Hand-Eye(s) Calibration Problem with Iterative Methods. Ag Data Commons,
+doi = {10.15482/USDA.ADC/1340592},
+publisher = {Ag Data Commons},
+howpublished= {\url{http://dx.doi.org/10.15482/USDA.ADC/1340592}}
+} 
+
+If you use this code in project that results in a publication, please cite at a minimum the paper above.  Otherwise, there are no restrictions in your use of this code.  However, no guarantees are expressed or implied.
+
 
 Oct 11, 2017
 Comments/Bugs/Problems: amy.tabb@ars.usda.gov

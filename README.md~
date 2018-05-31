@@ -8,7 +8,7 @@ A bug with regards to the computation of the translation error has been correcte
 ---------------------------------------------------------------------
 BUILDING AND RUNNING
 
-This README file is to accompany code for robot-world, hand-eye calibration, produced by Amy Tabb and Khalil M. Ahmad Yousef as a companion to their paper:
+This README file is to accompany code for robot-world, hand-eye calibration, produced by Amy Tabb as a companion to their paper:
 	Solving the Robot-World Hand-Eye(s) Calibration Problem with Iterative Methods
 
 @Article{Tabb2017,
